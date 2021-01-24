@@ -1,3 +1,5 @@
 nodemon = begins running a local server
 Ctrl + Ctr = kills the local server
 rs = restarts the local server
+
+JWT_SECRET = "i_am_secret"
